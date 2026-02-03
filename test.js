@@ -86,7 +86,7 @@ app.get("/me", (req, res) => {
 
   res.json({
     id: userId,
-    email: "adityakritikakurani@gmail.com",
+    email: "adityakurani26@gmail.com",
     name: "Aditya Kurani"
   });
 });
