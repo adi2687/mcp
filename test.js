@@ -62,6 +62,5 @@ app.get('/me', (req, res) => {
   });
 });
 
-app.listen(3000, () => {
-  console.log("Server running on 3000");
-});
+
+export default app
